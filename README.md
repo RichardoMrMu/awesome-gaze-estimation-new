@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: RichardoMu
  * @Date: 2021-05-12 18:43:17
- * @LastEditTime: 2021-05-12 19:49:46
+ * @LastEditTime: 2021-05-13 15:19:29
  * @LastEditors: RichardoMu
 -->
 ## Some journals you may interest:  
@@ -11,7 +11,7 @@
 [Journal of Eye Movement Research (JEMR)](https://bop.unibe.ch/jemr)
 
 ## Some conferences you may know:
-[ETRA] (http://etra.acm.org/2021/index.html) Eye-tracking Research and Applications
+[ETRA](http://etra.acm.org/2021/index.html) Eye-tracking Research and Applications
 
 * 偏计算机，算法及交互 
 
@@ -33,6 +33,21 @@
 ECEM (European Conference on Eye Movements)
 
 ## Some researchers you may interest:
+**Advanced Interactive Technologies** - Institute for Intelligent Interactive Systems, ETH Zürich - [AIT](https://ait.ethz.ch/index.php)
+
+* [Xucong Zhang](https://ait.ethz.ch/people/zhang/)
+
+* [Yufeng Zheng](https://ait.ethz.ch/people/zhengyuf/)
+
+* [Seonwook Park](https://ait.ethz.ch/people/spark/)
+
+[**Distributed Systems Group**](http://www.vs.inf.ethz.ch/) - ETH Zurich 
+
+
+**Perception & Hybrid Interaction (PHI) for Augmented Intelligence (AI)** - BeiHang University - [PHI](http://phi-ai.org/default.htm)
+
+* [Lu Feng](http://phi-ai.org/members/default.htm)
+
 **Cognitive Interaction Technology Center of Excellence** - Uni Bielefeld - [CITEC ](https://www.cit-ec.de/en)
 
 * Dr. rer. nat. Thies Pfeiffer (Dipl. Inform.) 
