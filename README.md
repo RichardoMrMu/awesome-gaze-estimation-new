@@ -82,7 +82,7 @@ Systems (VIS)
 **General Psychology** - University of Ulm 
 
 * [Prof. Dr. Anke Huckauf ](https://www.uni-ulm.de/in/psy-allg/team/anke-huckauf/)
-** 
+
 ## Some study 
 
 * [kasprowski etra2021](https://github.com/kasprowski/etra2021) etra2021-tutorials-deep learning in eye tracking world
